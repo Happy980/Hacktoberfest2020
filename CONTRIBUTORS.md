@@ -18,6 +18,10 @@
  - Place: Tamilnadu
  - Bio: Student
  - GitHub: [farzanfa00](https://github.com/farzanfa00)  
+ #### Name: [Sohil Jackson](https://github.com/Happy980)
+ - Place: Houston, Texas 
+ - Bio: Student of Computer Science 
+ - GitHub: [Sohil Jackson](https://github.com/Happy980)
 #### Theologos, Baxevanos
 - Place: Zurich, Switzerland
 - Bio: Student
